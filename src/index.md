@@ -1,5 +1,5 @@
 ---
 title: 'Hello world!'
-layout: 'layouts/hoome.html'
+layout: 'layouts/home.html'
 ---
 This is _so_ cool!
