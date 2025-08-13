@@ -1,4 +1,7 @@
 module.exports = (config) => {
+
+  config.addPassthroughCopy("./src/images/");
+
   return {
     markDownTemplateEngine: "njk",
     dataTemplateEngine: "njk",
